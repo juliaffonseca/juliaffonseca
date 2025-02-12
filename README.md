@@ -1,6 +1,6 @@
-# Olá, eu sou Julia Fonseca 👋
+# Bem-vindo ao meu GitHub! 👋
 
-Bem-vindo ao meu GitHub! Aqui, compartilho meus projetos e experiências no mundo do desenvolvimento.
+Aqui, compartilho meus projetos e experiências no mundo do desenvolvimento.
 
 ## Sobre mim
 
