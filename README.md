@@ -17,11 +17,6 @@ Aqui, compartilho meus projetos e experiências no mundo do desenvolvimento.
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-## Projetos em destaque
-
-- 📌 [aplicativo-de-pizza](https://github.com/juliaffonseca/aplicativo-de-pizza) - Sistema criado para realizar pedido de pizza
-- 📌 [cadastro-de-clientes](https://github.com/juliaffonseca/cadastro-de-clientes) - Sistema criado para cadastramento de contatos
-- 📌 [juliaffonseca.github.io](https://github.com/juliaffonseca/juliaffonseca.github.io) - Meu portfólio pessoal
 
 ## Estatísticas do GitHub
 
